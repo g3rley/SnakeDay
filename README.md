@@ -1,7 +1,9 @@
 # 🐍	SnakeDay
 ## _A traditional snake game developed in Lua language using Love 2D Game Engine_
 
-![image](https://github.com/g3rley/SnakeDay/assets/96620547/a5e794a9-a913-41eb-8d41-7627ec85e7b4)
+<p align="center">
+  <img src="https://github.com/g3rley/SnakeDay/assets/96620547/a5e794a9-a913-41eb-8d41-7627ec85e7b4" width="649"/>
+</p>
 
 This repository contains the source code of a traditional snake game developed in Lua language using Love 2D Game Engine. The snake game is a traditional game that has been developed in many languages and platforms. This is a simple snake game developed in Lua language using Love 2D Game Engine. 
 
